@@ -3,11 +3,7 @@
 Developed a Full Stack Application on DAM which allows users to auto tag the images, compress, convert and edit through a single portal. All the assets are pushed on the linked google drive and its meta data is stored in MongoDB. Users can perform a semantic search on the images resulting in accurate search results.
 
 
-# Video
 
-
-
-https://github.com/Rupesh-2003/techsurf/assets/72150555/9e613ede-8df2-48b0-94e8-402094b56eb4
 
 
 
@@ -61,43 +57,3 @@ https://github.com/Rupesh-2003/techsurf/assets/72150555/9e613ede-8df2-48b0-94e8-
 3. python3 main.py
 
 
-# ScreenShots
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 42 03 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/247d1289-e8a4-4214-baff-d1451645e4fa">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 42 34 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/953245dc-86e4-4a11-8689-54a5baeb8904">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 42 40 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/fa1c3406-770b-49f6-90e6-8191933e2617">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 43 36 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/c00eadf2-ad79-4459-8cd7-40d4fdd7b7eb">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 43 55 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/41d6b7e3-129c-4aa2-9b75-51c2a0ce7fce">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 48 34 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/5600597b-f8cb-46e5-a52d-cb709c2cb2c3">
-
-<img width="1440" alt="Screenshot 2023-08-28 at 5 49 06 AM" src="https://github.com/Rupesh-2003/techsurf/assets/72150555/91846623-7a1f-4f8e-8af0-9159b14f4e0c">
-
-
-## <span>👔<span/>&nbsp;&nbsp;  Candidate Details
-
-<p>
-  <p>Name: Rupesh Raut</p>
-  <p>Graduation year: 2025</p>
-  <p>Contact: </p>
-  <p>
-    <a href="https://www.linkedin.com/in/rupesh-raut-2003/">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" alt="Rupesh Raut | LinkedIn">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/rupeshraut2003">
-      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" alt="Rupesh | Twitter">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.behance.net/rupeshraut">
-      <img height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Rupesh | Behance">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:rupeshraut99396@gmail.com">
-      <img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" alt="Rupesh | Mail">
-     </a>&nbsp;&nbsp;
-  </p>
-</p>
-
-<h2 align="center">Thank You!</h2>
